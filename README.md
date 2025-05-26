@@ -4,7 +4,7 @@ This project applies unsupervised machine learning (K-Means clustering) to analy
 
 ## 📌 Summary
 
-Using the 2023–2024 NBA Player Dataset, I identified **Tyus Jones**, **Jalen Williams**, and **Josh Giddey** as ideal candidates for the Wizards. These players were selected based on a combination of:
+Using the 2023–2024 NBA Player Dataset, I try to identify ideal candidates for the Wizards. These players were selected based on a combination of:
 
 - **Total Field Points**
 - **Assists**
